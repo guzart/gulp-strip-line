@@ -1,0 +1,25 @@
+{
+  "name": "gulp-strip-line",
+  "version": "0.0.1",
+  "description": "Strip line plugin for gulp",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/guzart/gulp-strip-line"
+  },
+  "keywords": [
+    "strip",
+    "clean",
+    "gulpplugin"
+  ],
+  "author": "Arturo Guzman",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/guzart/gulp-strip-line/issues"
+  },
+  "homepage": "https://github.com/guzart/gulp-strip-line",
+  "dependencies": {
+    "through2": "^0.4.1",
+    "gulp-util": "^2.2.14"
+  }
+}
